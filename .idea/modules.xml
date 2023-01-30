@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Capillary Microservice.iml" filepath="$PROJECT_DIR$/.idea/Capillary Microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capmicroservice/eurekaServer/eurekaServer.iml" filepath="$PROJECT_DIR$/capmicroservice/eurekaServer/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capmicroservice/proxy-foo/foomicroservice.iml" filepath="$PROJECT_DIR$/capmicroservice/proxy-foo/foomicroservice.iml" />
+    </modules>
+  </component>
+</project>
